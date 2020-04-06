@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "722864422713",
+    "firebase_url": "https://fir-flu.firebaseio.com",
+    "project_id": "fir-flu",
+    "storage_bucket": "fir-flu.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:722864422713:android:dfc97e966b463e58f2b2e8",
+        "android_client_info": {
+          "package_name": "com.qanxa.flutterfirebase"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "722864422713-eqclt2tia3jh16ss4qnvrbet9qmst88s.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCcOpbpcL2Wh_hkn85YDnz2caM0Ika-XXc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "722864422713-eqclt2tia3jh16ss4qnvrbet9qmst88s.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
